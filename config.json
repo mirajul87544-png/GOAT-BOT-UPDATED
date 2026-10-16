@@ -1,27 +1,15 @@
 {
   "language": "en",
   "botName": "✨⌈«͢͢𝐌𝐢𝐫𝐚𝐣𝐮𝐥♡︎𝐈𝐬𝐥𝐚𝐦»⌋⤹³🩷🪽",
-  "prefix": "/",
-  "adminBot": [
-    "61594487758129"
-  ],
-  "credentials": {
-    "gmailAccount": "",
-    "gmailPassword": ""
-  },
-  "dashBoard": {
-    "enable": true,
-    "port": 10000
-  }
-}
-{
-  "language": "en",
-  "botName": "✨⌈«͢͢𝐌𝐢𝐫aj𝐮𝐥♡︎𝐈𝐬𝐥𝐚𝐦»⌋⤹³🩷🪽",
+  "prefix": "!",
   "adminBot": [
     "61594487758129"
   ],
   "ownerBot": "61594487758129",
-  "prefix": "/",
+  "credentials": {
+    "gmailAccount": "",
+    "gmailPassword": ""
+  },
   "noPrefix": {
     "status": true,
     "input": [
@@ -36,7 +24,7 @@
       "Bolo Bowww, shuntechi! 🩷",
       "Jaan bolo, ki korte pari? ✨",
       "Haa Xanu, bolo! 🪽",
-      "Achi to, amake d ডাকle keno? 🥹"
+      "Achi to, amake ডাকle keno? 🥹"
     ]
   },
   "dashBoard": {
