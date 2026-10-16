@@ -15,7 +15,7 @@ const express = require("express");
 const log = require("./logger/log.js");
 
 const ROOT = __dirname;
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 10000;
 // ===== DASHBOARD PASSWORD (change it here) =====
 const PANEL_PASSWORD = "xalmanx210";
 const HOT_FILE = ".dashboard-hot.js";
