@@ -24,8 +24,8 @@
     ]
   },
   "dashBoard": {
-    "enable": false,
-    "port": 3000
+    "enable": true,
+    "port": 10000
   },
   "database": {
     "type": "json"
